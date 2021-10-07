@@ -12,7 +12,7 @@ We often come across fake news in our daily lives through various forms of socia
 - IDF (Inverse Document Frequency): IDF is a measure of how significant a term is in the entire corpus.
 The TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features.
 
-> PassiveAggressiveClassifier
+> PassiveAggressiveClassifier  
 PassiveAggressiveClassifier is such an online learning algorithm whose purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 
 ### Steps
