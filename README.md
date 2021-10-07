@@ -13,7 +13,7 @@ We often come across fake news in our daily lives through various forms of socia
 The TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features.
 
 > PassiveAggressiveClassifier  
-PassiveAggressiveClassifier is such an online learning algorithm whose purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
+- PassiveAggressiveClassifier is such an online learning algorithm whose purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 
 ### Steps
 1. Loading the dataset
