@@ -9,7 +9,7 @@ We often come across fake news in our daily lives through various forms of socia
 
 > TfidfVectorizer
 - TF (Term Frequency): The number of times a word appears in a document is its Term Frequency.
-- IDF (Inverse Document Frequency): IDF is a measure of how significant a term is in the entire corpus.
+- IDF (Inverse Document Frequency): IDF is a measure of how significant a term is in the entire corpus.  
 The TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features.
 
 > PassiveAggressiveClassifier  
